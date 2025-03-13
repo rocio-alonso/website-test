@@ -26,5 +26,5 @@ body {
 }
 
 .hero{
-  height: 100vh !important;
+  height: 100svh;
 }
