@@ -5,7 +5,7 @@ import Gallery from "./components/lib/Gallery/Gallery";
 
 const page = () => {
   return (
-    <div>
+    <div className="hero">
       <CldImage
         src="bollini-2023/ucsijhy1cqs3hcew6rqe"
         width="500"
